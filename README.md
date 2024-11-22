@@ -1,11 +1,11 @@
 # Binary Image Classification: Cats vs Dogs Using CNNs
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on building a **Convolutional Neural Network (CNN)** to classify images of cats and dogs. Using the Kaggle "Dogs vs Cats" dataset, the goal is to develop a binary classification model capable of distinguishing between the two classes. The project involves preprocessing data, building a deep learning model, training and evaluation, and testing with real-world inference.
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset is sourced from Kaggle and consists of labeled images of cats and dogs.
 
 - **Training Set**: Contains images of cats and dogs.
@@ -27,7 +27,7 @@ The dataset is organized into the following directory structure:
 
 ---
 
-## 🛠️ Project Workflow
+##  Project Workflow
 
 ### 1. Data Preprocessing
 - **Resizing**: All images are resized to \(150 \times 150\) pixels.
