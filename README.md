@@ -1,1 +1,1 @@
-# Binary-Image-classification-Cats-vs-Dogs-using-CNNs
+# Binary Image Classification: Cats vs Dogs Using CNNs
