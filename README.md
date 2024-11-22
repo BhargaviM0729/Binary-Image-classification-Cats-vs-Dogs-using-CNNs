@@ -49,25 +49,9 @@ The model is built using the **Keras Sequential API**, consisting of:
   - Dense layers with `ReLU` activation.
   - Sigmoid activation at the output layer for binary classification.
 
-![image](https://github.com/user-attachments/assets/ccb53927-f2f7-4f00-9f20-ae1f33f10d6a)
-
-
 **Model Summary:**
-```
-Layer (type)                Output Shape              Param #   
-=================================================================
-conv2d (Conv2D)             (None, 148, 148, 32)      896       
-max_pooling2d (MaxPooling2D) (None, 74, 74, 32)       0         
-...
-dense (Dense)               (None, 512)              655872    
-dense_1 (Dense)             (None, 1)                513       
-=================================================================
-Total params: 719,105
-Trainable params: 719,105
-Non-trainable params: 0
-```
 
----
+![image](https://github.com/user-attachments/assets/ccb53927-f2f7-4f00-9f20-ae1f33f10d6a)
 
 ### 3. Model Training
 - **Loss Function**: Binary Cross-Entropy
@@ -96,6 +80,8 @@ The model is tested on an unseen dataset to evaluate its generalization capabili
 - Confusion matrix and classification report are generated to analyze the predictions.
 
 ### Performance Plots:
+![image](https://github.com/user-attachments/assets/ff32953a-d2c1-44da-84e3-6332a0c1c000)
+
 ![Accuracy Plot](link_to_accuracy_plot.png)
 ![Loss Plot](link_to_loss_plot.png)
 
