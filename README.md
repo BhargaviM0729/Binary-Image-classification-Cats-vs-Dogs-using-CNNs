@@ -99,7 +99,6 @@ make_prediction(img_path)
 ```
 
 **Prediction Result:**  
-![image](https://github.com/user-attachments/assets/75ecd9e2-29a7-4b32-92aa-7e15414fac84)
 
 Predicted: **Dog**
 
@@ -118,7 +117,8 @@ plt.show()
 
 **Visualization of Prediction:**
 
-![Prediction Visualization](assets/prediction_visualization.png)
+![image](https://github.com/user-attachments/assets/75ecd9e2-29a7-4b32-92aa-7e15414fac84)
+
 
 ## Requirements
 
