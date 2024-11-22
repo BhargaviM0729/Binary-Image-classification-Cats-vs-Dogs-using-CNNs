@@ -88,7 +88,8 @@ cm = confusion_matrix(true_classes, predicted_classes)
  [ 30, 470]]
 ```
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/6f5c18c0-4311-4f5c-bc91-ff78f9025dfa)
+
 
 ### 8. **Making Predictions**
 The model is used to predict new images:
@@ -104,7 +105,6 @@ Predicted: **Dog**
 
 **Predicted Image Visualization:**
 
-![Predicted Image](assets/sample_image_prediction.png)
 
 ### 9. **Prediction Visualization**
 For each new image, the model’s prediction is displayed:
