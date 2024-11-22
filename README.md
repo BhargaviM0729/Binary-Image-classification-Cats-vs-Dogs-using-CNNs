@@ -86,9 +86,9 @@ The model is tested on an unseen dataset to evaluate its generalization capabili
 
 ---
 
-## 🧑‍💻 Prerequisites
+
 ### Libraries:
-- Python 3.x
+- Python
 - TensorFlow
 - Keras
 - OpenCV
@@ -96,16 +96,6 @@ The model is tested on an unseen dataset to evaluate its generalization capabili
 - Matplotlib
 - Seaborn
 
-### Installation:
-Install the required libraries using:
-```bash
-pip install tensorflow numpy matplotlib keras opencv-python seaborn
-```
 
----
-
-
-
----
 
 
