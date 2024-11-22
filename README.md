@@ -18,7 +18,7 @@ In this project, we perform the following steps:
 
 Before starting with model development, we download the dataset from Kaggle and unzip it for use in training:
 
-```bash
+
 !mkdir -p ./kaggle  # Create directory for Kaggle API credentials
 !cp kaggle_dogsvscats.json ~/.kaggle/  # Copy Kaggle API credentials to the correct directory
 !kaggle datasets download -d salader/dogs-vs-cats  # Download the Dogs vs Cats dataset from Kaggle
