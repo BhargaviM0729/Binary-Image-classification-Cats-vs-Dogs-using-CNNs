@@ -180,10 +180,6 @@ pip install tensorflow numpy matplotlib keras opencv-python seaborn scikit-learn
 
 This project demonstrates the end-to-end process of building and training a **Convolutional Neural Network (CNN)** for **binary image classification**. The model is able to classify images of dogs and cats with high accuracy using data augmentation, model evaluation, and visualization techniques. The code provides a good foundation for building other image classification models and experimenting with more complex datasets.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 
 
 
