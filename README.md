@@ -82,8 +82,7 @@ The model is tested on an unseen dataset to evaluate its generalization capabili
 ### Performance Plots:
 ![image](https://github.com/user-attachments/assets/ff32953a-d2c1-44da-84e3-6332a0c1c000)
 
-![Accuracy Plot](link_to_accuracy_plot.png)
-![Loss Plot](link_to_loss_plot.png)
+
 
 ---
 
@@ -105,48 +104,8 @@ pip install tensorflow numpy matplotlib keras opencv-python seaborn
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dogs-vs-cats-classification.git
-   cd dogs-vs-cats-classification
-   ```
-
-2. Download the dataset from [Kaggle](https://www.kaggle.com/salader/dogs-vs-cats) and place it in the project directory.
-
-3. Run the training script:
-   ```bash
-   python train.py
-   ```
-
-4. For single image prediction:
-   ```bash
-   python predict.py --image_path /path/to/image.jpg
-   ```
 
 ---
 
-## 📊 Confusion Matrix
-![Confusion Matrix](link_to_confusion_matrix.png)
 
----
-
-## 🔗 Future Improvements
-- Implement transfer learning using pre-trained models (e.g., VGG16, ResNet).
-- Add advanced data augmentation techniques for better generalization.
-- Tune hyperparameters using tools like Keras Tuner.
-- Experiment with multi-class classification by adding more categories.
-
----
-
-## 👤 Author
-- **Name**: [Your Name]
-- **Contact**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
-Feel free to reach out for any questions or collaboration opportunities! 😊
-
----
-
-Let me know if you'd like to customize this further or if you'd like me to generate specific visuals like confusion matrix and plots for you!
