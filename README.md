@@ -80,6 +80,8 @@ The model is tested on an unseen dataset to evaluate its generalization capabili
 - Confusion matrix and classification report are generated to analyze the predictions.
 
 ### Performance Plots:
+Training and validation performance (accuracy and loss) is plotted.
+
 ![image](https://github.com/user-attachments/assets/ff32953a-d2c1-44da-84e3-6332a0c1c000)
 
 
